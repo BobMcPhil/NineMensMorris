@@ -4,6 +4,7 @@ Created on Sun Apr 10 23:39:22 2022
 
 @author: garcip2
 """
+#5/23/23: No changes made, just testing github
 from colorama import Fore, Back, Style
 colors = [Fore.RED,Fore.GREEN,Fore.YELLOW,Fore.BLUE]
 directions = ("nw","n","ne","e","se","s","sw","w")
